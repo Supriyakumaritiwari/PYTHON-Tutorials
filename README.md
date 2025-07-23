@@ -4,8 +4,6 @@ This repository contains chapter-wise Python programs with integrated practice p
 
 ## 📚 Chapters Included
 
-- Chapter 0 – What is Programming?
-- Chapter 1 – Modules, Comments & pip
 - Chapter 2 – Variables and Datatypes
 - Chapter 3 – Strings
 - Chapter 4 – Lists and Tuples
